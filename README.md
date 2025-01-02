@@ -2,6 +2,8 @@
 
 The other Mod in the workshop is no longer working, so I made a new one myself.
 
+https://steamcommunity.com/sharedfiles/filedetails/?id=3357043152
+
 Any character can pick any starting weapon.
 ![MOD](https://i.imgur.com/5DOgZEk.png)
 
