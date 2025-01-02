@@ -1,0 +1,17 @@
+{
+	"name": "AnyStartingWeapon",
+	"namespace": "yshi50",
+	"version_number": "1.0.0",
+	"description": "Pick Any Starting Weapon by yshi50",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["yshi50"],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["1.1.4.0"],
+			"config_defaults": {}
+		}
+	}
+}
